@@ -1,7 +1,18 @@
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 div.dinosaur {
     border: 2px solid burlywood;
+}
+
+.ass {
+    border: 3px solid grey;
+    background-color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.title {
+    background-color: lightblue;
 }
